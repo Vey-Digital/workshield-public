@@ -1,0 +1,2 @@
+# workshield-public
+Public assets
