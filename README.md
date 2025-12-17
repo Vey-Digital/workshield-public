@@ -1,4 +1,5 @@
 ## 🎥 WorkShield Product Overview
+[![WorkShield Overview](https://img.shields.io/badge/Product%20Overview-Video-blue)](https://vey-digital.github.io/workshield-public/)
 
 **Structured workplace documentation · Research-backed resources · Built for preparedness**
 
