@@ -1,8 +1,8 @@
-## 🎥 WorkShield — Product Overview
+## 🎥 WorkShield Product Overview
 
 **Structured workplace documentation · Research-backed resources · Built for preparedness**
 
-[![Watch the WorkShield Product Overview](assets/screenshots/wkshome.png)](VIDEO_URL)
+[![Watch the WorkShield Product Overview](assets/screenshots/wkshome.png)](https://github.com/Vey-Digital/workshield-public/blob/main/assets/screenshots/WorkShield_PP-2.mp4)
 
 WorkShield helps you document workplace events clearly and responsibly, combining structured records with research-backed resources to support preparedness without escalation or overreach.
 
