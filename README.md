@@ -1,8 +1,14 @@
+🎥 WorkShield — Product Overview
+<div align="center">
+Structured workplace documentation. Research-backed resources. Built for preparedness.
+</div> <div align="center">
+▶️ Watch the WorkShield Product Overview
+</div> <div align="center">
+WorkShield helps you document workplace events clearly and responsibly, combining structured records with research-backed resources to support preparedness — without escalation or overreach.
+</div>
 
 
-## 🎥 WorkShield Product Overview
+assets/screenshots/workshield-video-cover.png
+**Disclaimer:** WorkShield is a documentation, research, and information tool only and does not provide legal advice, representation, or outcome guarantees.
 
-[▶️ Watch the WorkShield product overview video](assets/screenshots/WorkShield_PP-2.mp4)
-
-This short video provides a high-level overview of WorkShield’s purpose, design philosophy, and core capabilities—focused on documentation clarity, evidence integrity, and professional preparedness.
 
